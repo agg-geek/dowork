@@ -1,0 +1,92 @@
+[
+	{
+		"short_title": "Animation",
+		"title": "Video & Animation",
+		"desc": "Engage your audience",
+		"img": "/img/animation.webp",
+		"search": "animation",
+		"link": "/gigs?category=animation",
+		"icon": "/icons/video-animation.svg"
+	},
+	{
+		"short_title": "AI Artists",
+		"title": "AI Services",
+		"desc": "Add talent to AI",
+		"img": "/img/ai.webp",
+		"search": "ai",
+		"link": "/gigs?category=ai",
+		"icon": "/icons/ai.svg"
+	},
+	{
+		"short_title": "Web Design",
+		"title": "Web Design",
+		"desc": "Customize your site",
+		"img": "/img/webdesign.webp",
+		"search": "webdesign",
+		"link": "/gigs?category=webdesign",
+		"icon": "/icons/web-design.svg"
+	},
+	{
+		"short_title": "Design",
+		"title": "Graphic Design",
+		"desc": "Build your brand",
+		"img": "/img/illustration.webp",
+		"search": "graphicdesign",
+		"link": "/gigs?category=graphicdesign",
+		"icon": "/icons/graphics-design.svg"
+	},
+	{
+		"short_title": "Data Entry",
+		"title": "Data Entry",
+		"desc": "Learn your business",
+		"img": "/img/data-entry.webp",
+		"search": "dataentry",
+		"link": "/gigs?category=dataentry",
+		"icon": "/icons/data-entry.svg"
+	},
+	{
+		"short_title": "Translation",
+		"title": "Writing & Translation",
+		"desc": "Go global",
+		"img": "/img/translation.webp",
+		"search": "translation",
+		"link": "/gigs?category=translation",
+		"icon": "/icons/writing-translation.svg"
+	},
+	{
+		"short_title": "Social Media",
+		"title": "Social Media",
+		"desc": "Reach more customers",
+		"img": "/img/social.webp",
+		"search": "social",
+		"link": "/gigs?category=social",
+		"icon": "/icons/social.svg"
+	},
+	{
+		"short_title": "SEO",
+		"title": "Search Engine Optimisation",
+		"desc": "Unlock growth online",
+		"img": "/img/seo.webp",
+		"search": "seo",
+		"link": "/gigs?category=seo",
+		"icon": "/icons/seo.svg"
+	},
+	{
+		"short_title": "Voice Over",
+		"title": "Voice Over",
+		"desc": "Share your message",
+		"img": "/img/voice-over.webp",
+		"search": "voiceover",
+		"link": "/gigs?category=voiceover",
+		"icon": "/icons/music-audio.svg"
+	},
+	{
+		"short_title": "Book Covers",
+		"title": "Book Covers",
+		"desc": "Showcase your story",
+		"img": "/img/book-covers.webp",
+		"search": "bookcover",
+		"link": "/gigs?category=bookcover",
+		"icon": "/icons/book-cover.svg"
+	}
+]

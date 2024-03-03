@@ -1,0 +1,252 @@
+[
+	{
+		"name": "Aarav Patel",
+		"phonenumber": "3847569210",
+		"desc": "Experienced graphic designer specializing in logo creation and branding"
+	},
+	{
+		"name": "Nisha Gupta",
+		"phonenumber": "8291450367",
+		"desc": "Creative content writer crafting engaging articles and blog posts"
+	},
+	{
+		"name": "Rohan Singh",
+		"phonenumber": "6029378145",
+		"desc": "Front-end web developer proficient in HTML, CSS, and JavaScript"
+	},
+	{
+		"name": "Aanya Sharma",
+		"phonenumber": "1536094728",
+		"desc": "Digital marketing expert driving results through SEO and social media strategies"
+	},
+	{
+		"name": "Aditya Verma",
+		"phonenumber": "9764321580",
+		"desc": "Illustrator with a passion for creating whimsical children's book illustrations"
+	},
+	{
+		"name": "Riya Choudhary",
+		"phonenumber": "2103984765",
+		"desc": "Seasoned video editor skilled in creating captivating visual stories"
+	},
+	{
+		"name": "Arjun Mehta",
+		"phonenumber": "5478136920",
+		"desc": "Experienced translator offering English to Spanish translation services"
+	},
+	{
+		"name": "Neha Reddy",
+		"phonenumber": "8902461573",
+		"desc": "Social media manager experienced in growing online communities organically"
+	},
+	{
+		"name": "Aryan Khan",
+		"phonenumber": "4612089357",
+		"desc": "Photographer capturing life's beautiful moments with a keen eye"
+	},
+	{
+		"name": "Anika Kapoor",
+		"phonenumber": "7358192460",
+		"desc": "Virtual assistant adept at managing schedules and administrative tasks"
+	},
+	{
+		"name": "Vihaan Desai",
+		"phonenumber": "2846590317",
+		"desc": "Motion graphics artist creating visually stunning animations"
+	},
+	{
+		"name": "Saanvi Joshi",
+		"phonenumber": "6901345728",
+		"desc": "E-commerce consultant optimizing online stores for higher conversions"
+	},
+	{
+		"name": "Ishaan Kumar",
+		"phonenumber": "4278906135",
+		"desc": "Voice-over artist with a versatile vocal range for various projects"
+	},
+	{
+		"name": "Diya Malhotra",
+		"phonenumber": "9316572840",
+		"desc": "SEO specialist enhancing website visibility and driving organic traffic"
+	},
+	{
+		"name": "Dhruv Bhatia",
+		"phonenumber": "7630189254",
+		"desc": "Experienced data entry specialist with an eye for detail and accuracy"
+	},
+	{
+		"name": "Myra Patel",
+		"phonenumber": "5021348697",
+		"desc": "Mobile app developer proficient in creating user-friendly interfaces"
+	},
+	{
+		"name": "Advait Singhania",
+		"phonenumber": "1853207469",
+		"desc": "Business consultant helping startups with strategic planning and growth"
+	},
+	{
+		"name": "Ananya Rana",
+		"phonenumber": "3769241058",
+		"desc": "Freelance journalist covering a wide range of topics with in-depth research"
+	},
+	{
+		"name": "Vivaan Sengupta",
+		"phonenumber": "6542183097",
+		"desc": "UI/UX designer crafting intuitive and visually appealing user experiences"
+	},
+	{
+		"name": "Sanya Agarwal",
+		"phonenumber": "9284675130",
+		"desc": "Fitness coach offering personalized training plans and nutrition guidance"
+	},
+	{
+		"name": "Shaurya Iyer",
+		"phonenumber": "3917602845",
+		"desc": "Animator bringing characters and stories to life with motion"
+	},
+	{
+		"name": "Siya Nair",
+		"phonenumber": "5460872391",
+		"desc": "Illustrator skilled in digital painting and concept art creation"
+	},
+	{
+		"name": "Krish Mehra",
+		"phonenumber": "8271539406",
+		"desc": "Music producer creating immersive soundscapes across genres"
+	},
+	{
+		"name": "Avni Chauhan",
+		"phonenumber": "1459702638",
+		"desc": "Online tutor providing academic assistance in mathematics and science"
+	},
+	{
+		"name": "Arnav Khanna",
+		"phonenumber": "6890453271",
+		"desc": "Resume writer crafting professional resumes that stand out to employers"
+	},
+	{
+		"name": "Aisha Rao",
+		"phonenumber": "2104569783",
+		"desc": "CAD designer specializing in product and architectural designs"
+	},
+	{
+		"name": "Advik Dave",
+		"phonenumber": "5342896170",
+		"desc": "Lifestyle blogger sharing tips on travel, health, and self-care"
+	},
+	{
+		"name": "Kiara Sharma",
+		"phonenumber": "7621305984",
+		"desc": "Voice coach training individuals to project confidence and clarity"
+	},
+	{
+		"name": "Aarush Patel",
+		"phonenumber": "9705638214",
+		"desc": "Fashion designer creating unique clothing pieces with a modern twist"
+	},
+	{
+		"name": "Anvi Yadav",
+		"phonenumber": "1285736490",
+		"desc": "Freelance chef offering culinary delights for private events"
+	},
+	{
+		"name": "Shivansh Prasad",
+		"phonenumber": "8730152946",
+		"desc": "Interior decorator transforming spaces with innovative design concepts"
+	},
+	{
+		"name": "Sara Khan",
+		"phonenumber": "2467893150",
+		"desc": "Illustrator skilled in character design and storyboarding"
+	},
+	{
+		"name": "Atharv Gupta",
+		"phonenumber": "6078914235",
+		"desc": "Animator specializing in 2D animations for explainer videos"
+	},
+	{
+		"name": "Navya Kapoor",
+		"phonenumber": "9310462578",
+		"desc": "WordPress developer creating responsive websites with custom themes"
+	},
+	{
+		"name": "Vedant Verma",
+		"phonenumber": "5182396740",
+		"desc": "Resume reviewer optimizing CVs to impress potential employers"
+	},
+	{
+		"name": "Ishani Reddy",
+		"phonenumber": "3629048157",
+		"desc": "Mobile app designer crafting visually appealing interfaces"
+	},
+	{
+		"name": "Reyansh Bhandari",
+		"phonenumber": "7846023591",
+		"desc": "Proofreader ensuring impeccable grammar and polished writing"
+	},
+	{
+		"name": "Aaradhya Sharma",
+		"phonenumber": "2935714608",
+		"desc": "Voice actor with a diverse range of accents and tones"
+	},
+	{
+		"name": "Vivan Malhotra",
+		"phonenumber": "4578906123",
+		"desc": "Personal stylist curating fashionable looks for various occasions"
+	},
+	{
+		"name": "Amaya Deshpande",
+		"phonenumber": "6312457890",
+		"desc": "CAD draftsman proficient in architectural and engineering drawings"
+	},
+	{
+		"name": "Vihaan Chawla",
+		"phonenumber": "9762053481",
+		"desc": "Content strategist developing comprehensive plans for online presence"
+	},
+	{
+		"name": "Ananya Saxena",
+		"phonenumber": "2105438976",
+		"desc": "Freelance yoga instructor teaching mindfulness and flexibility"
+	},
+	{
+		"name": "Krishang Patel",
+		"phonenumber": "8297130654",
+		"desc": "Character artist bringing fantasy worlds to life with digital art"
+	},
+	{
+		"name": "Myrah Rajput",
+		"phonenumber": "3549207816",
+		"desc": "Virtual event planner orchestrating engaging online gatherings"
+	},
+	{
+		"name": "Yuvan Iyer",
+		"phonenumber": "6897341502",
+		"desc": "Animator specializing in stop-motion and claymation"
+	},
+	{
+		"name": "Eesha Bajaj",
+		"phonenumber": "1472380956",
+		"desc": "Ghostwriter creating captivating stories and novels"
+	},
+	{
+		"name": "Reyan Thakur",
+		"phonenumber": "5823146790",
+		"desc": "Podcast producer crafting high-quality audio content"
+	},
+	{
+		"name": "Anvi Agarwal",
+		"phonenumber": "9350716428",
+		"desc": "Sketch artist capturing real-life scenes with a quick hand"
+	},
+	{
+		"name": "Viraat Srinivasan",
+		"phonenumber": "4068295713",
+		"desc": "Freelance translator proficient in multiple languages"
+	},
+	{
+		"name": "Aisha Dubey",
+		"phonenumber": "7316842095",
+		"desc": "Digital painter creating imaginative and visually stunning artwork"
+	}
+]
